@@ -1,8 +1,7 @@
 Radware Threat Researchers Live Ep.26 - References and Resources
  
 Recorded stream link: https://youtu.be/d2_Hw2gkfFs
-
-###Rob Joyce meme
+***Rob Joyce meme
 https://twitter.com/NSA_CSDirector/status/1580131622548295682
 
 Cyberattack on Colorado state website follows Russian hacktivist threat
