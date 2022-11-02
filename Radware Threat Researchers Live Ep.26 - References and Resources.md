@@ -3,17 +3,23 @@ Radware Threat Researchers Live Ep.26 - References and Resources
 Recorded stream link: https://youtu.be/d2_Hw2gkfFs
 
 Rob Joyce meme
+
 https://twitter.com/NSA_CSDirector/status/1580131622548295682
 
 Cyberattack on Colorado state website follows Russian hacktivist threat
+
 https://www.nbcnews.com/tech/security/colorado-state-websites-struggle-russian-hackers-vow-attack-rcna51012
+
 https://t.me/killnet_reservs/2939 
 
 US airports' sites taken down in DDoS attacks by pro-Russian hackers
+
 https://www.bleepingcomputer.com/news/security/us-airports-sites-taken-down-in-ddos-attacks-by-pro-russian-hackers/ 
+
 https://www.radware.com/security/threat-advisories-and-attack-reports/us-civilian-network-infrastructure-targeted-by-pro-russian-hacktivists/ 
 
 Anonymous Russia – Bulgarian airports
+
 https://t.me/anon_by/1013 
 
 Cyberattack disrupts Bulgarian government websites over ‘betrayal to Russia’
